@@ -1,0 +1,2 @@
+# shell_ws
+Shell_script_Training_Folder
